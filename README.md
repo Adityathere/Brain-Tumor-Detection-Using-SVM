@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHpzaTR6ajZ1dGZib2lwMnM3azY2eTNzdXFibHVhc2JmNXR5YWYycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3nSGQ045gEvvQFRm/giphy.gif" alt="Animated GIF" />
+  <img src="https://www.radiology.ca/wp-content/uploads/2022/09/mri-brain_web.jpg" alt="mriscan Logo" width="350" height="200">
 </p>
 
 # Brain Tumor Detection using CNN
