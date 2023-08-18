@@ -1,7 +1,7 @@
 
-<div align="center">
-  <img src="https://giphy.com/gifs/brain-anatomy-Vn9JVHDAzYw1O" alt="Animated GIF" />
-</div>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHpzaTR6ajZ1dGZib2lwMnM3azY2eTNzdXFibHVhc2JmNXR5YWYycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3nSGQ045gEvvQFRm/giphy.gif" alt="Animated GIF" />
+</p>
 
 # Brain Tumor Detection using CNN
 The Brain Tumor Detection using Convolutional Neural Networks (CNN) is a deep learning project focused on accurately detecting brain tumors in medical images. By harnessing the power of CNNs, the project aims to automatically learn and extract meaningful features from brain MRI scans, enabling precise and efficient tumor detection.
