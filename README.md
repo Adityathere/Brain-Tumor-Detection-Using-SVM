@@ -2,12 +2,12 @@
   <img src="https://www.radiology.ca/wp-content/uploads/2022/09/mri-brain_web.jpg" alt="mriscan Logo" width="350" height="200">
 </p>
 
-# Brain Tumor Detection using CNN
-The Brain Tumor Detection using Convolutional Neural Networks (CNN) is a deep learning project focused on accurately detecting brain tumors in medical images. By harnessing the power of CNNs, the project aims to automatically learn and extract meaningful features from brain MRI scans, enabling precise and efficient tumor detection.
+# Brain Tumor Detection using Deep Learning
+The Brain Tumor Detection using Support vector machines (SVM) is a deep learning project focused on accurately detecting brain tumors in medical images. By harnessing the power of SVMs, the project aims to automatically learn and extract meaningful features from brain MRI scans, enabling precise and efficient tumor detection.
 
 
 ## Description
-This project is dedicated to developing an advanced brain tumor detection system using state-of-the-art Convolutional Neural Networks (CNNs). Brain tumors can have a profound impact on patients' well-being, underscoring the importance of early and accurate detection. By utilizing a dataset sourced from Kaggle, consisting of meticulously annotated brain MRI images, the CNN model is trained to differentiate between normal brain scans and those displaying tumor anomalies. The entire project is implemented using the Jupyter Notebook platform, providing an interactive and collaborative environment for development and experimentation.This project is an example of a machine learning project that involves image classification using a Support Vector Machine (SVM) with Principal Component Analysis (PCA) for dimensionality reduction. The goal of this project is to classify brain tumor images into different tumor types. 
+This project is dedicated to developing an advanced brain tumor detection system using Support vector machines (SVM). Brain tumors can have a profound impact on patients' well-being, underscoring the importance of early and accurate detection. By utilizing a dataset sourced from Kaggle, consisting of meticulously annotated brain MRI images, the SVM model is trained to differentiate between normal brain scans and those displaying tumor anomalies. The entire project is implemented using the Jupyter Notebook platform, providing an interactive and collaborative environment for development and experimentation.This project is an example of a machine learning project that involves image classification using a Support Vector Machine (SVM) with Principal Component Analysis (PCA) for dimensionality reduction. The goal of this project is to classify brain tumor images into different tumor types. 
 
 
 ## Process and Working
